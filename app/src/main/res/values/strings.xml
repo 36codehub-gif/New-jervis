@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Jarvis</string>
+    <string name="accessibility_service_description">Jarvis Accessibility Service enables hands-free voice automation such as automated screen taps, navigation gestures (Back, Home, Recents), screenshot capture, and reading screen details when requested by you.</string>
+    <string name="notification_service_description">Jarvis Notification Service allows Jarvis to read recent notifications aloud upon your voice command and assist in prioritizing alerts.</string>
+</resources>
